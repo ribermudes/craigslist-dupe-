@@ -1,0 +1,10 @@
+<h1>Epicoduslist</h1>
+
+<h2>Browse rentals...</h2>
+
+<div class="rental-items">
+  {{#each model as |rental|}}
+     {{rental-tile rental=rental destroyRental="destroyRental"}}
+  {{/each}}
+</div>
+{{new-rental saveRental="saveRental"}}

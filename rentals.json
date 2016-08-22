@@ -1,0 +1,23 @@
+{ "rentals": [{
+    "title": "Cozy Cottage",
+    "cost": "925",
+    "squareft": "350",
+    "bedrooms": 0,
+    "location": "Hollywood",
+    "image": "http://farm5.static.flickr.com/4124/5037002199_9a926594df.jpg"
+  }, {
+    "title": "Riverfront Condo",
+    "cost": "2800",
+    "squareft": "1318",
+    "bedrooms": 2,
+    "location": "Downtown",
+    "image": "http://portlandhomeauction.com/files/2010/01/South-Waterfront-2.1.jpg"
+  }, {
+    "title": "2 Bedroom Apartment",
+    "cost": "1600",
+    "squareft": "1200",
+    "bedrooms": 2,
+    "location": "North East",
+    "image": "https://images.craigslist.org/00S0S_35ppiJK0hSm_600x450.jpg"
+  }]
+}
