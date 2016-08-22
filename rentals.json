@@ -19,5 +19,16 @@
     "bedrooms": 2,
     "location": "North East",
     "image": "https://images.craigslist.org/00S0S_35ppiJK0hSm_600x450.jpg"
-  }]
+  }],
+  "personals": [{
+      "description": "never been missed",
+      "location": "down the road",
+      "content": "Maybe you've been missing me. Let's find out!",
+      "image": ""
+    }, {
+      "description": "looking for me?",
+      "location": "next door",
+      "content": "Need a friend? Just ask!",
+      "image": ""
+    }]
 }

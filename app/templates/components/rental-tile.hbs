@@ -1,4 +1,6 @@
 <div class="rental-tile">
-  <img src={{rental.image}}><br> {{rental.bedrooms}} bedroom, {{rental.squareft}}ft2 {{rental.title}} for merely {{rental.cost}} in {{rental.location}} !
+  <span id="constrain">
+    <img src={{rental.image}}><br> {{rental.bedrooms}} bedroom, {{rental.squareft}}ft2 {{rental.title}} for merely {{rental.cost}} in {{rental.location}} !
   <button{{action 'delete' rental}}>Delete</button>
+</span>
 </div>

@@ -1,0 +1,25 @@
+.rental-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+#constrain {
+  width: 300px;
+}
+div {
+  padding: 0.4em;
+}
+ img {
+   height: 300px;
+   width: 300px;
+ }
+.rental-tile {
+  display: flex;
+  p {
+    justify-content: center;
+  }
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
